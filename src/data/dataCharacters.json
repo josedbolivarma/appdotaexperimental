@@ -1,0 +1,88 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "ABADDON",
+      "sinapsis": "PROTEGE A SUS ALIADOS O A SÍ MISMO DE LOS ATAQUES.",
+      "attack": "CUERPO A CUERPO",
+      "atributo": "fuerza",
+      "banner": "https://images6.alphacoders.com/538/thumb-1920-538945.jpg",
+      "avatar": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/alchemist.png",
+      "roles": {
+        "carry": 30,
+        "support": 70,
+        "Nuker": 0,
+        "Incapacitador": 0,
+        "Jungla": 0,
+        "Resistente": 74,
+        "Evasivo": 0,
+        "Presionador": 0,
+        "Iniciador": 0
+      },
+      "rol": "Apoyo"
+    },
+    {
+      "id": 2,
+      "name": "ALCHEMISTH",
+      "sinapsis": "PROTEGE A SUS ALIADOS O A SÍ MISMO DE LOS ATAQUES.",
+      "attack": "CUERPO A CUERPO",
+      "atributo": "fuerza",
+      "banner": "https://i.blogs.es/d92d5c/alchemist/1366_2000.jpg",
+      "avatar": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/alchemist.png",
+      "roles": {
+        "carry": 30,
+        "support": 70,
+        "Nuker": 0,
+        "Incapacitador": 0,
+        "Jungla": 0,
+        "Resistente": 74,
+        "Evasivo": 0,
+        "Presionador": 0,
+        "Iniciador": 0
+      },
+      "rol": "Tanque"
+    },
+    {
+      "id": 3,
+      "name": "JUGGERNAUT",
+      "sinapsis": "PROTEGE A SUS ALIADOS O A SÍ MISMO DE LOS ATAQUES.",
+      "attack": "CUERPO A CUERPO",
+      "atributo": "agilidad",
+      "banner": "https://i.pinimg.com/originals/35/ea/44/35ea4482ed562f6baef3dface9b65ec0.jpg",
+      "avatar": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/alchemist.png",
+      "roles": {
+        "carry": 30,
+        "support": 70,
+        "Nuker": 0,
+        "Incapacitador": 0,
+        "Jungla": 0,
+        "Resistente": 74,
+        "Evasivo": 0,
+        "Presionador": 0,
+        "Iniciador": 0
+      },
+      "rol": "Asesino"
+    },
+    {
+      "id": 4,
+      "name": "DROW RANGER",
+      "sinapsis": "PROTEGE A SUS ALIADOS O A SÍ MISMO DE LOS ATAQUES.",
+      "attack": "A DISTANCIA",
+      "atributo": "agilidad",
+      "banner": "https://p4.wallpaperbetter.com/wallpaper/23/672/1018/drow-ranger-dota-2-defense-of-the-ancients-steam-software-dota-wallpaper-preview.jpg",
+      "avatar": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/alchemist.png",
+      "roles": {
+        "carry": 30,
+        "support": 70,
+        "Nuker": 0,
+        "Incapacitador": 0,
+        "Jungla": 0,
+        "Resistente": 74,
+        "Evasivo": 0,
+        "Presionador": 0,
+        "Iniciador": 0
+      },
+      "rol": "Asesino"
+    }
+  ]
+}
